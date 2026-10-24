@@ -1,0 +1,5 @@
+﻿timestamp,source_ip,destination_ip,destination_port,protocol,action
+2026-10-24T10:00:00,192.168.1.20,192.168.1.10,443,TCP,allowed
+2026-10-24T10:02:00,203.0.113.50,192.168.1.10,4444,TCP,allowed
+2026-10-24T10:03:00,192.168.1.25,192.168.1.10,80,TCP,allowed
+2026-10-24T10:05:00,192.168.1.30,192.168.1.10,22,TCP,allowed

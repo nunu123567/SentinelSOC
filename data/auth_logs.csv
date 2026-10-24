@@ -1,0 +1,10 @@
+﻿timestamp,username,source_ip,event_type
+2026-10-24T09:55:00,alice,192.168.1.20,login_success
+2026-10-24T10:00:00,bob,203.0.113.50,login_failed
+2026-10-24T10:01:00,bob,203.0.113.50,login_failed
+2026-10-24T10:02:00,bob,203.0.113.50,login_failed
+2026-10-24T10:03:00,bob,203.0.113.50,login_failed
+2026-10-24T10:04:00,bob,203.0.113.50,login_failed
+2026-10-24T10:04:30,bob,203.0.113.50,login_success
+2026-10-24T10:10:00,carol,192.168.1.25,login_failed
+2026-10-24T10:12:00,carol,192.168.1.25,login_success
